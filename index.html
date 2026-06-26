@@ -3,11 +3,27 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="assets/etoile.png"
 	<title>La Machine à Invocation </title>
 	<style src="style.css"></style>
 </head>
 <body>
-
+	<section>
+		<h1>La Machine à Invocation</h1>
+		<form id="invocation">
+			<label for="prenon">Prénom:</label>
+			<input type="text" id="prenom">
+			<label for="creature">Choisis une créature !</label>
+			<select id="creature">
+				<option value="" disabled selected>☺︎</option>
+				<option>🐙 le Chat-Octo</option>
+				<option>🐉 le Dragon-Debug</option>
+				<option>🦄 la Licorne-CSS</option>
+				<option>🦊 le Renard-Refacto</option>
+			</select>
+			<button>Invoque-là</button>
+		</form>
+	</section>
 
 	<script src="script.js"></script>
 </body>
