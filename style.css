@@ -11,7 +11,7 @@ body {
 	font-family: 'VT323', monospace;
 	font-size: 1.4rem;
 	background: #f4f1e6;
-	color: #2d3a2e;
+	color: #3f5236;
 }
 
 h1 {
@@ -29,7 +29,7 @@ form {
 	gap: 1rem;
 	padding: 2rem;
 	background: #fff;
-	border: 3px solid #3f5236;
+	border: 3px solid #6b8e5a;
 	border-radius: 8px;
 }
 
