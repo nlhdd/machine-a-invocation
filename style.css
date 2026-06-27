@@ -64,6 +64,13 @@ button:hover {
 	background: #3f5236;
 }
 
+#resultat {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
+
 .cache {
-	display: none;
+	display: none !important;
 }

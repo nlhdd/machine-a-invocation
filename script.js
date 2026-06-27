@@ -13,3 +13,10 @@ formulaire.addEventListener("submit", (event) => {
 	document.getElementById("invocation").classList.add("cache");
 	document.getElementById("resultat").classList.remove("cache");
 });
+
+const boutonAgain = document.getElementById("again");
+
+boutonAgain.addEventListener("click", () => {
+	document.getElementById("invocation").classList.remove("cache");
+	document.getElementById("resultat").classList.add("cache");
+});
