@@ -28,7 +28,7 @@ The user enters their name, picks a dog, and summons it.
 
 ### Lancer le projet
 
-Ouvrir `index.html` dans un navigateur.
+[Live here!](https://doggosummoner.netlify.app)
 
 ---
 
@@ -52,7 +52,7 @@ Ouvrir `index.html` dans un navigateur.
 
 ### Run the project
 
-Open `index.html` in a browser.
+[Live here!](https://doggosummoner.netlify.app)
 
 ---
 
